@@ -1,0 +1,59 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+}
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+img {
+	max-width: 100%;
+	margin-bottom: 10px;
+}
+header a {
+	color: black;
+	margin-right: 15px;
+	line-height: 60px;
+}
+footer a {
+	color: white;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	font-size: 45px;
+}
+h3 {
+	font-size: 30px;
+}
+h1, h2, h3, p, ul, ol, li {
+    margin: 0 0 24px;
+}
+section {
+	padding: 50px 0 20px;
+}
+footer {
+	text-align: center;
+	padding: 20px 0;
+}
+small {
+	display: block;
+	text-align: center;
+}
+p {
+	font-size: 16px;
+	line-height: 23px;
+}
+small + p {
+	margin-top: 24px;
+}
+.bg-black {
+	background-color: #000000;
+}
+.bg-gray {
+	background-color: #f4f4f4;
+}
+footer span {
+	color: white;
+}
